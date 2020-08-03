@@ -1,0 +1,5 @@
+php:
+  webserver: nginx
+  version: 7.2.14
+nginx:
+  version: 1.19.1
